@@ -28336,7 +28336,7 @@ return A.K($async$a2d,r)},
 aBq(){var s=0,r=A.L(t.eQ),q,p,o,n,m,l,k,j,i
 var $async$aBq=A.F(function(a,b){if(a===1)return A.I(b,r)
 while(true)switch(s){case 0:s=3
-return A.O($.no().Cw(0,".env"),$async$aBq)
+return A.O($.no().Cw(0,"dotenv"),$async$aBq)
 case 3:p=$.no().gnf().h(0,"apiKey")
 if(p==null)p=""
 o=$.no().gnf().h(0,"appId")
