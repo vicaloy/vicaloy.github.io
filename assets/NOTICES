@@ -6428,6 +6428,9 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
+firebase_auth
+firebase_auth_platform_interface
+firebase_auth_web
 firebase_core
 firebase_core_platform_interface
 firebase_database
@@ -6862,6 +6865,11 @@ url_launcher_windows
 vector_graphics
 vector_graphics_codec
 vector_graphics_compiler
+video_player
+video_player_android
+video_player_avfoundation
+video_player_platform_interface
+video_player_web
 webview_flutter
 webview_flutter_platform_interface
 webview_flutter_wkwebview
